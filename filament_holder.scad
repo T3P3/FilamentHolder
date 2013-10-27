@@ -1,14 +1,14 @@
 //
 //Yet Another Filament Spool Holder
 //
-//Deisgned for the Lasercut Mende90 but can be fitted on most printers with
+//Designed for the Lasercut Mende90 but can be fitted on most printers with
 //a flat surface to bolt it onto.
 //
 //tony@think3dprint3d.com
 //
 // GPL v3.0
 //
-// it uses two libraries from the mendel90 desin, available from here:
+// it uses two libraries from the mendel90 design, available from here:
 //
 // https://github.com/T3P3/Mendel90/tree/LaserCut/scad
 //
